@@ -192,8 +192,3 @@ Solutie:
 7 6 3 | 4 1 8 | 2 5 9 
 ```
 
----
-
-## 👩‍💻 Author
-
-Developed by [@nataalieee](https://github.com/nataalieee).
